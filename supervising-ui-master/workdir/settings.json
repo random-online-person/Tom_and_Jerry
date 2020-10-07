@@ -1,0 +1,12 @@
+{
+  "type": "image-labeling",
+  "task": {
+	"labels":[
+		"Angry",
+		"Happy",
+		"Sad",
+    "Surprised",
+		"Unknown"
+	 ]
+  }
+}
